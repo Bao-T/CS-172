@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\bao\documents\classes\computer science\cs 172\homework 3\homework 3\main.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\bao\documents\classes\computer science\cs 172\homework 3\homework 3\main.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\bao\documents\classes\computer science\cs 172\homework 3\homework 3\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  Homework 3.vcxproj -> C:\Users\Bao\Documents\Classes\Computer Science\CS 172\Homework 3\Debug\Homework 3.exe

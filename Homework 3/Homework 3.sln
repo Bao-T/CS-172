@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework 3", "Homework 3\Homework 3.vcxproj", "{9F03C03C-E0FA-477E-A0A8-734810A41EE3}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "Polygon", "Polygon\Polygon.modelproj", "{498ACAF2-256A-4677-9184-89572C9BA54F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Debug|x64.ActiveCfg = Debug|x64
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Debug|x64.Build.0 = Debug|x64
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Debug|x86.Build.0 = Debug|Win32
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Release|Any CPU.ActiveCfg = Release|Win32
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Release|x64.ActiveCfg = Release|x64
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Release|x64.Build.0 = Release|x64
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Release|x86.ActiveCfg = Release|Win32
+		{9F03C03C-E0FA-477E-A0A8-734810A41EE3}.Release|x86.Build.0 = Release|Win32
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Debug|x64.Build.0 = Debug|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Debug|x86.Build.0 = Debug|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Release|x64.ActiveCfg = Release|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Release|x64.Build.0 = Release|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Release|x86.ActiveCfg = Release|Any CPU
+		{498ACAF2-256A-4677-9184-89572C9BA54F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
