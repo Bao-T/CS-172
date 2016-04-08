@@ -23,8 +23,8 @@ public:
 	const double getwidth() const { return width; }
 	const double getheight() const {return height; }
 	//changes/sets values
-	const void setx(int tx) { x = tx; }
-	const void sety(int ty) { y = ty; }
+	const void setx(double tx) { x = tx; }
+	const void sety(double ty) { y = ty; }
 	void setwidth(double twidth) {width = twidth; }
 	void setheight(double theight) { height = theight; }
 
