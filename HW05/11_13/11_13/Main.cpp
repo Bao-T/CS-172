@@ -11,5 +11,7 @@ int main()
 	string *students = c1.getStudents();
 	for (int i = 0; i < c1.getNumberOfStudents(); i++)
 		std::cout << students[i] << std::endl;
+	Course c2(c1); // deep copy
+	c1.~Course; // destructor
 	return 0;
 }
