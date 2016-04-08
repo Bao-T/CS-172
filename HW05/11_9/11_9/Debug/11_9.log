@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\bao\documents\classes\computer science\cs 172\hw05\11_9\11_9\class.h(15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bao\documents\classes\computer science\cs 172\hw05\11_9\11_9\class.h(16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  11_9.vcxproj -> C:\Users\Bao\Documents\Classes\Computer Science\CS 172\HW05\11_9\Debug\11_9.exe
