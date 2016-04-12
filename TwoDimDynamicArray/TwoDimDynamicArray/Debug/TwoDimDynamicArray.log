@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\bao\downloads\twodimdynamicarray\twodimdynamicarray\twodimdynamicarray\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\bao\downloads\twodimdynamicarray\twodimdynamicarray\twodimdynamicarray\source.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  TwoDimDynamicArray.vcxproj -> C:\Users\Bao\Downloads\TwoDimDynamicArray\TwoDimDynamicArray\Debug\TwoDimDynamicArray.exe
