@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_05\ex06_05\date.h(13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_05\ex06_05\class.h(49): warning C4018: '<': signed/unsigned mismatch
+  EX06_05.vcxproj -> C:\Users\Bao\Documents\Classes\S2\CS 172\HW06\EX06_05\Debug\EX06_05.exe

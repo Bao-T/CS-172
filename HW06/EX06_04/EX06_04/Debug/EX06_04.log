@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_04\ex06_04\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_04\ex06_04\main.cpp(34): note: see reference to function template instantiation 'void shuffle<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  EX06_04.vcxproj -> C:\Users\Bao\Documents\Classes\S2\CS 172\HW06\EX06_04\Debug\EX06_04.exe
