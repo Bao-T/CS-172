@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 	Vector <int> v1(10, 1);
-	for (int i = 0; i <= v1.size(); i++)
+	for (int i = 0; i <= v1.size(); i++) // Joseph: I know you know this, but if you catch yourself using the same code over and over, it may be good practice to write a function
 		cout << v1.at(i);
 	cout << endl;
 	v1.pop_back();

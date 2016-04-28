@@ -1,8 +1,9 @@
-﻿  Main.cpp
-c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_04\ex06_04\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_04\ex06_04\main.cpp(34): note: see reference to function template instantiation 'void shuffle<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
-          with
-          [
-              _Ty=int
-          ]
-  EX06_04.vcxproj -> C:\Users\Bao\Documents\Classes\S2\CS 172\HW06\EX06_04\Debug\EX06_04.exe
+﻿Build started 4/28/2016 8:22:59 AM.
+     1>Project "C:\Users\jflinn18\Documents\GitHub\btran19\CS-172\HW06\EX06_04\EX06_04\EX06_04.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         EX06_04.vcxproj -> C:\Users\jflinn18\Documents\GitHub\btran19\CS-172\HW06\EX06_04\Debug\EX06_04.exe
+     1>Done Building Project "C:\Users\jflinn18\Documents\GitHub\btran19\CS-172\HW06\EX06_04\EX06_04\EX06_04.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03

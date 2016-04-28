@@ -15,7 +15,7 @@ void shuffle(vector<T> & v) // pass by reference to directly shuffle the vector
 	int size = v.size();
 	for (int i = 0; i < size; i++)
 	{
-		srand(time(NULL)); // ensures true randomness
+		srand(time(NULL)); // ensures true randomness                            Joseph: You only want to call this once in the whole program. This is why the vector isn't shuffling quite right.
 		int random = rand() % (size); // random integer between 0 and size
 		T temp = v[i]; // swaps the index of the vector specified by the for loop with the index of the randomly chosen vector index of [random]
 		v[i] = v[random];

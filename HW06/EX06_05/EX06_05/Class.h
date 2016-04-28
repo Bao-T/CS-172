@@ -1,5 +1,5 @@
-#pragma once
-#include <string>
+#pragma once                      // Joseph: Remember inclusion guards in all of your header files. This isn't a problem for this program, but when you are including the Account class into multiple
+#include <string>				  //         files, there needs to be inclusion guards. It is good practice to start doing it now. It will be a big deal in Data Structures.
 #include "Transaction.h"
 #include <vector>
 class Account {

@@ -1,11 +1,22 @@
-﻿  Main.cpp
-c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_03\ex06_03\main.cpp(13): warning C4018: '<=': signed/unsigned mismatch
-c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_03\ex06_03\main.cpp(17): warning C4018: '<=': signed/unsigned mismatch
-c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_03\ex06_03\main.cpp(21): warning C4018: '<=': signed/unsigned mismatch
-c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_03\ex06_03\main.cpp(25): warning C4018: '<=': signed/unsigned mismatch
-c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_03\ex06_03\main.cpp(35): warning C4018: '<=': signed/unsigned mismatch
-c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_03\ex06_03\vector.h(88): warning C4018: '<': signed/unsigned mismatch
-  c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_03\ex06_03\vector.h(86): note: while compiling class template member function 'void Vector<int>::swap(Vector<int>)'
-  c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_03\ex06_03\main.cpp(34): note: see reference to function template instantiation 'void Vector<int>::swap(Vector<int>)' being compiled
-  c:\users\bao\documents\classes\s2\cs 172\hw06\ex06_03\ex06_03\main.cpp(12): note: see reference to class template instantiation 'Vector<int>' being compiled
-  EX06_03.vcxproj -> C:\Users\Bao\Documents\Classes\S2\CS 172\HW06\EX06_03\Debug\EX06_03.exe
+﻿Build started 4/28/2016 8:20:39 AM.
+     1>Project "C:\Users\jflinn18\Documents\GitHub\btran19\CS-172\HW06\EX06_03\EX06_03\EX06_03.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\jflinn18\documents\github\btran19\cs-172\hw06\ex06_03\ex06_03\main.cpp(13): warning C4018: '<=': signed/unsigned mismatch
+     1>c:\users\jflinn18\documents\github\btran19\cs-172\hw06\ex06_03\ex06_03\main.cpp(17): warning C4018: '<=': signed/unsigned mismatch
+     1>c:\users\jflinn18\documents\github\btran19\cs-172\hw06\ex06_03\ex06_03\main.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+     1>c:\users\jflinn18\documents\github\btran19\cs-172\hw06\ex06_03\ex06_03\main.cpp(25): warning C4018: '<=': signed/unsigned mismatch
+     1>c:\users\jflinn18\documents\github\btran19\cs-172\hw06\ex06_03\ex06_03\main.cpp(35): warning C4018: '<=': signed/unsigned mismatch
+     1>c:\users\jflinn18\documents\github\btran19\cs-172\hw06\ex06_03\ex06_03\vector.h(88): warning C4018: '<': signed/unsigned mismatch
+         c:\users\jflinn18\documents\github\btran19\cs-172\hw06\ex06_03\ex06_03\vector.h(86): note: while compiling class template member function 'void Vector<int>::swap(Vector<int>)'
+         c:\users\jflinn18\documents\github\btran19\cs-172\hw06\ex06_03\ex06_03\main.cpp(34): note: see reference to function template instantiation 'void Vector<int>::swap(Vector<int>)' being compiled
+         c:\users\jflinn18\documents\github\btran19\cs-172\hw06\ex06_03\ex06_03\main.cpp(12): note: see reference to class template instantiation 'Vector<int>' being compiled
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jflinn18\Documents\GitHub\btran19\CS-172\HW06\EX06_03\Debug\EX06_03.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\jflinn18\Documents\GitHub\btran19\CS-172\HW06\EX06_03\Debug\EX06_03.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jflinn18\Documents\GitHub\btran19\CS-172\HW06\EX06_03\Debug\EX06_03.lib" /MACHINE:X86 Debug\Main.obj
+         EX06_03.vcxproj -> C:\Users\jflinn18\Documents\GitHub\btran19\CS-172\HW06\EX06_03\Debug\EX06_03.exe
+     1>Done Building Project "C:\Users\jflinn18\Documents\GitHub\btran19\CS-172\HW06\EX06_03\EX06_03\EX06_03.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.81
